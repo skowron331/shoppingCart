@@ -1,2 +1,2 @@
 # shoppingCart
-Python: shopiing cart interface
+Python: shopping cart interface
